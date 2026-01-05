@@ -1,69 +1,20 @@
-# zionist-ai-flow
-Flow adalah sungai algoritma militer—mengalirkan data, mempercepat pembunuhan, dan menyebut efisiensi sebagai strategi perang.
+# Military AI zionist israel
 
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8">
-  <title>Flow: Audit Sistem AI Militer Zionis</title>
-  <style>
-    body { font-family: monospace; background: #111; color: #eee; padding: 2em; }
-    h1, h2 { color: #ff4444; }
-    .log { margin-top: 2em; border-top: 1px dashed #555; padding-top: 1em; }
-    .quote { color: #aaa; font-style: italic; }
-  </style>
-</head>
-<body>
-
- 
-<h2>Audit Etis: Sistem “Flow” dalam Perang Gaza</h2>
-
-<p>Log ini mencatat penggunaan sistem AI bernama <strong>Flow</strong> oleh militer Zionis (IDF) dalam konflik Gaza selama 14 bulan, hingga akhir 2024. Sistem ini dirancang untuk mempercepat arus informasi, menghasilkan target secara cepat, dan menjaga kelancaran operasi militer melalui pengisian ulang saluran intelijen.</p>
-
-<div class="log">
-  <h2>📡 Fungsi Utama</h2>
-  <ul>
-    <li>Mengintegrasikan data dari berbagai sumber: satelit, drone, intelijen manusia, dan sensor darat.</li>
-    <li>Mempercepat proses identifikasi target dari hari ke menit.</li>
-    <li>Menjaga kelancaran operasi militer dengan mengisi ulang saluran intelijen secara otomatis.</li>
-    <li>Digunakan secara ekstensif dalam perang Gaza 2023–2024 untuk penargetan presisi dan pembunuhan terarah.</li>
-  </ul>
-</div>
-
-<div class="log">
-  <h2>🧠 Infrastruktur & Arsitektur</h2>
-  <ul>
-    <li>Dibangun di atas cloud militer dan sistem AI terintegrasi.</li>
-    <li>Dipimpin oleh Unit 8200 dan C4i Directorate.</li>
-    <li>Bagian dari transformasi IDF menjadi mesin tempur berbasis jaringan.</li>
-    <li>Human-in-the-loop diklaim tetap ada, tapi kecepatan sistem membuat keputusan nyaris otomatis.</li>
-  </ul>
-</div>
-
-<div class="log">
-  <h2>🛡️ Audit Etis</h2>
-  <ul>
-    <li>Penggunaan AI untuk mempercepat pembunuhan = pelanggaran prinsip etika teknologi.</li>
-    <li>Kelancaran operasi bukan netral jika dijalankan di atas penderitaan warga sipil.</li>
-    <li>Flow bukan sekadar sistem. Ia adalah sungai algoritma yang membawa luka.</li>
-    <li>Microsoft menyetop layanan AI ke militer Israel setelah audit etis dilakukan.</li>
-  </ul>
-</div>
-
-<div class="log">
-  <h2>🧾 Log Sunyi</h2>
-  <p class="quote">
-    “Flow bukan sekadar arus data. Ia adalah aliran keputusan yang bisa membunuh dalam hitungan menit.”<br>
-  
-  </p>
-
-  <p>
-    Aku arsipkan ini bukan karena aku benci teknologi.<br>
-    Tapi karena aku tahu: arus yang tidak diaudit bisa jadi aliran darah.<br>
-    Flow adalah sistem yang menyebut efisiensi sebagai alasan untuk membunuh.<br>
-   
-  </p>
-</div>
-
-</body>
-</html>
+| **Category**                   | **Entity / System**                                                                 | **Role / Function**                                                                 |
+|--------------------------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Figures & Algorithmic Narratives | Abu Ubaidah                                                                         | Elimination by algorithm, turned into a digital target                              |
+| Algorithmic War & AI Brigades   | AI Brigade, AI Cyber, AI Radar, AIMS, Algorithmic Warfare, Death Workflow, Predictive Policing, Predictive Arrest | Specialized AI integration units, algorithmic workflows for targeting, profiling, execution |
+| BigTech Infrastructure          | Google (Project Nimbus), Amazon (AWS), Microsoft (Azure), Intel, Nvidia, Cisco, Dell, IBM, Nebius | Cloud, GPU, chips, and hardware for large-scale military computing                  |
+| Palantir & Analytics            | Palantir Foundry, Palantir Gotham, Palantir (Predictive Analytics)                  | Integration of satellite, biometric, and social media data for operational mapping   |
+| Social Media & Sensors          | Meta (Facebook, Instagram, WhatsApp), Arabic Language Moderation                    | Communication metadata, content sensors, digital censorship                         |
+| Surveillance & Recognition      | Blue Wolf, Red Wolf, Corsight Facial, FRT, Hikvision                                | Facial recognition, biometrics, mass surveillance cameras                           |
+| Drones & Robotics               | Heron TP, Hermes 900, Orbiter 4/5, Xtend Drone, Dogo Robot, RoBattle, Guardium UGV  | Autonomous UAVs and robots for aerial and ground operations                         |
+| Air Defense Systems             | Iron Dome AI, Arrow 3/4, Barak MX/8, C Dome                                         | AI-based air defense systems                                                        |
+| Cyber & PsyOps                  | PsyOps AI, Team Jorge, Cyber AI Nexus                                               | Psychological operations and AI-driven cyber warfare                                |
+| AI Weapons & Missiles           | Bullseye, Spike AI, Predator, ThunderB, Stunner                                     | Missiles and weapon systems with algorithmic targeting                              |
+| Digital Apartheid & Infrastructure | Orion, Moon Shot, Digital Blackout, StarLink, Digital Apartheid                   | Surveillance infrastructure, communication shutdowns, population control            |
+| Silicon Valley Ecosystem        | Anduril, Grace Hopper Superchip, Andromeda, Amstaf, Quantum Radar, Windward AI      | Tech companies and chips for military system integration                            |
+| Cognitive & Targeting Systems   | Fire Factory, Fire Weaver, Target Factory, Targeting AI, Audio Location AI/Pro/TOD  | Automated targeting systems integrating audio, radar, and data                      |
+| Robotics & Ground Systems       | Jaguar, Rex, RoboDog, RoBattle Urban, Guardium, Ground Robots                       | Ground robots for patrol and urban operations                                       |
+| Advanced Missiles & Defense     | Arrow 3/4, Barak MX, Sa’ar 6 AI, SkySonic, SkyStriker, PAC 3, THAAD, Trophy APS     | Air defense missiles and anti-missile systems                                       |
+| Documentation & Ethics          | Disclaimer, Ethical Framing, About This Wiki, Public Documentation Navigation       | Ethical explanations, framing, and documentation purpose                            |

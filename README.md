@@ -61,16 +61,12 @@ This documentation is not neutral.
 It is a **counter‑archive** against propaganda, designed to highlight the ethical, political, and humanitarian consequences of military AI systems.  
 By preserving these records, we ensure that the **voice of Palestine** is not silenced in the digital battlefield.
 
----
-
-## 📜 License
-This repository is shared for **educational and activist purposes**.  
-Feel free to fork, mirror, or clone to ensure resilience and distribution.
+ 
 
 ---
-# License – Military AI Zionist Israel Documentation
+## 📜 License   – Military AI Zionist Israel Documentation
 
-This repository is an open archive documenting the integration of Artificial Intelligence (AI) into Israel’s military systems.  
+This repository is an open archive documenting the integration of Artificial Intelligence (AI) into Israel’s military systems.  Feel free to fork, mirror, or clone to ensure resilience and distribution.
 It is shared for **educational, activist, and research purposes**.
 
 ---

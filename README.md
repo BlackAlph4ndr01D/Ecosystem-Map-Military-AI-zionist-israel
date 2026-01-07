@@ -75,7 +75,7 @@ It is shared for **educational, activist, and research purposes**.
 
 ---
 
-## 📜 License Terms
+#  📜 License Terms
 
 - **Attribution (BY):** You must give appropriate credit to the original author (BlackAlph4ndr01D) when using, sharing, or adapting this work.  
 - **ShareAlike (SA):** If you remix, transform, or build upon this material, you must distribute your contributions under the same license.  

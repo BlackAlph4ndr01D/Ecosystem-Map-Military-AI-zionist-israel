@@ -231,7 +231,7 @@ Ecosystem ini **bukan sekadar senjata**, tapi:
 ### Dan Palestina berada di pusatnya— bukan karena pilihan, tetapi karena **ketiadaan perlindungan**.
   
 ---
-# 📖 LIST of Zionist Military AI Systems
+# 📖 IDF Stack >> [LIST of Zionist Military AI Systems](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/IDF-Stack)
 
 This repository documents the integration of **artificial intelligence (AI)** into Israel’s military infrastructure.  
 It serves as a **public archive** to expose algorithmic warfare, surveillance technologies, and BigTech involvement in Gaza and the West Bank.  

@@ -1,5 +1,5 @@
 # [Ecosytem Map Military AI zionist israel](https://github.com/BlackAlph4ndr01D/Ecosystem-Map-Military-AI-zionist-israel/wiki)
----
+ 
 ####  ⚖️ Ethical Framing
 
 ## This documentation is not neutral.  
